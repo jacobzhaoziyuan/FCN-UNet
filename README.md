@@ -10,7 +10,7 @@
 ## Abstract
 Segmentation is one of the most important steps in medical image analysis. It aims to accurately divide the image into meaningful groups. Recently, deep convolutional neural networks, particularly fully convolution networks, have achieved state-of-the-art results on semantic image segmentation.  In this work, we mainly reviewed two representative fully convolution networks, i.e., FCN and UNet, and implemented them in one challenging segmentation task, vestibular schwannoma and cochlea segmentation. 
 
-##Reimplemented methods
+## Reimplemented methods
 * [FCN](https://arxiv.org/abs/1411.4038), [UNet](https://arxiv.org/abs/1505.04597), and [DRN](https://arxiv.org/abs/1705.09914)
 
 
