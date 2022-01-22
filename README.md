@@ -1,10 +1,5 @@
-# DM6190 Assignment 1: Vestibular Schwannoma and Cochlea Segmentation from Contrast-enhanced T1 MRI
+FCN & UNet Implementation: Vestibular Schwannoma and Cochlea Segmentation from Contrast-enhanced T1 MRI
 
-
-
-## Team Member
-* Zhao Ziyuan 
-* Ng Han Wei
 
 
 ## Abstract
