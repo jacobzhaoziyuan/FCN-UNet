@@ -1,4 +1,4 @@
-FCN & UNet Implementation: Vestibular Schwannoma and Cochlea Segmentation from Contrast-enhanced T1 MRI
+# FCN & UNet Implementation: Vestibular Schwannoma and Cochlea Segmentation from Contrast-enhanced T1 MRI
 
 
 
